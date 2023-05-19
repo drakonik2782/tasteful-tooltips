@@ -1,0 +1,37 @@
+{
+    "id": "tasteful-tooltips",
+    "title": "Tasteful Tooltips",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Drakonik",
+            "url": "https://github.com/drakonik2782",
+            "discord": "drakonik#9324",
+            "ko-fi": "https://ko-fi.com/btbias"
+        }
+    ],
+    "compatibility": {
+            "minimum": "10",
+            "verified": "10"
+    },
+    "styles": [ "css/styles.css" ],
+    "scripts": [ "js/tooltips.js" ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+                "compatibility": {
+                    "minimum": "2.0.0",
+                    "verified": "2.1.5"
+                }
+            }
+        ]
+    },
+    "url": "https://github.com/drakonik2782/tasteful-tooltips",
+    "description": "Adds tooltips to 5e conditions to use as a quick reference.",
+    "manifest": "https://github.com/drakonik2782/tasteful-tooltips/releases/latest/download/tasteful-tooltips.json",
+    "download": "https://github.com/drakonik2782/tasteful-tooltips/releases/latest/download/tasteful-tooltips.zip",
+    "changelog": "https://github.com/drakonik2782/tasteful-tooltips/releases/"
+}

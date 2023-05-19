@@ -1,0 +1,12 @@
+/**
+  * TOOLTIPs
+  * Overrides some default tooltip styles
+**/
+span.tooltip-troll {
+    text-decoration: underline;
+}
+#tooltip {
+    max-width: 420px;
+    background: rgba(0, 0, 0, 0.90);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+}
