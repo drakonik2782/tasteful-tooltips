@@ -4,7 +4,11 @@
 [![Latest Release Download Count](https://img.shields.io/github/downloads/btbias/troll/latest/total?label=Latest%20Downloads)](#)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-btbias-00B9FE?logo=kofi&color=blue)](https://ko-fi.com/btbias)
 
-Hello and welcome to Tasteful Tooltips! This module adds tooltips to common conditions for dnd5e. Simply hover over an underlined word.
+Hello and welcome to Tasteful Tooltips! This module adds tooltips to common conditions for dnd5e, such as grappled or poisoned, as a quick and easy reference to what that condition means.
+
+![image](https://i.imgur.com/a76vizn.png)
+
+This works without the user having to write any code. So long as the word exists in a document, ex. "frightened", Tasteful Tooltips updates automatically that word to activate the appropriate tooltip on hover.
 
 ## Manifest
 Should you decide to manually install this module, here is the manifest URL for your convenience:
