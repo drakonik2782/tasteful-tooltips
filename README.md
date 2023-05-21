@@ -8,7 +8,7 @@ Hello and welcome to Tasteful Tooltips! This module adds tooltips to common cond
 
 ![image](https://i.imgur.com/a76vizn.png)
 
-This works without the user having to write any code. So long as the word exists in a document, ex. "frightened", Tasteful Tooltips updates automatically that word to activate the appropriate tooltip on hover.
+This works without the user having to write any code. So long as the word exists in a document, ex. "frightened", Tasteful Tooltips automatically updates that word to activate the appropriate tooltip on hover.
 
 ## Manifest
 Should you decide to manually install this module, here is the manifest URL for your convenience:
