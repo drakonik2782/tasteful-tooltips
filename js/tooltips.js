@@ -1,4 +1,4 @@
-console.log("TROLL | Configuring Tooltips");
+console.log("Tasteful Tooltips | Configuring tooltips");
 Hooks.on('ready',() => {
     const conditions = [
         {
