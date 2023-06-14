@@ -2,7 +2,7 @@
 [![Supported Foundry Versions](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/drakonik2782/tasteful-tooltips/releases/latest/download/module.json)](#)
 [![Total Downloads](https://img.shields.io/github/downloads/drakonik2782/tasteful-tooltips/total?label=Total%20Downloads)](#)
 [![Latest Release Download Count](https://img.shields.io/github/downloads/drakonik2782/tasteful-tooltips/latest/total?label=Latest%20Downloads)](#)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-btbias-00B9FE?logo=kofi&color=blue)](https://ko-fi.com/btbias)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-drakonik-00B9FE?logo=kofi&color=blue)](https://ko-fi.com/drakonik)
 
 Hello and welcome to Tasteful Tooltips! This module adds tooltips to common conditions for dnd5e, such as grappled or poisoned, as a quick and easy reference to what that condition means.
 
