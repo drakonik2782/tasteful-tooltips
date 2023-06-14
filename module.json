@@ -1,7 +1,7 @@
 {
     "id": "tasteful-tooltips",
     "title": "Tasteful Tooltips",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "authors": [
         {
             "name": "Drakonik",
@@ -12,7 +12,7 @@
     ],
     "compatibility": {
             "minimum": "10",
-            "verified": "10"
+            "verified": "11"
     },
     "styles": [ "css/styles.css" ],
     "scripts": [ "js/tooltips.js" ],
@@ -24,7 +24,7 @@
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
                     "minimum": "2.0.0",
-                    "verified": "2.1.5"
+                    "verified": "2.2.1"
                 }
             }
         ]
