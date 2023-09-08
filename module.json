@@ -1,13 +1,13 @@
 {
     "id": "tasteful-tooltips",
     "title": "Tasteful Tooltips",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "authors": [
         {
             "name": "Drakonik",
             "url": "https://github.com/drakonik2782",
             "discord": "drakonik#9324",
-            "ko-fi": "https://ko-fi.com/btbias"
+            "ko-fi": "https://ko-fi.com/drakonik"
         }
     ],
     "compatibility": {
@@ -15,7 +15,7 @@
             "verified": "11"
     },
     "styles": [ "css/styles.css" ],
-    "scripts": [ "js/tooltips.js" ],
+    "esmodules": [ "js/tooltips.js" ],
     "relationships": {
         "systems": [
             {
@@ -24,7 +24,7 @@
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
                     "minimum": "2.0.0",
-                    "verified": "2.2.1"
+                    "verified": "2.3.1"
                 }
             }
         ]

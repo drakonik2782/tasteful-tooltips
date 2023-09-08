@@ -6,7 +6,7 @@
 
 Hello and welcome to Tasteful Tooltips! This module adds tooltips to common conditions for dnd5e, such as grappled or poisoned, as a quick and easy reference to what that condition means.
 
-![image](https://i.imgur.com/a76vizn.png)
+![image](https://i.imgur.com/uLix8as.png)
 
 This works without the user having to write any code. So long as the word exists in a document, ex. "frightened", Tasteful Tooltips automatically updates that word to activate the appropriate tooltip on hover.
 
